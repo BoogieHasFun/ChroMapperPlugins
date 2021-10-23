@@ -1,3 +1,9 @@
+This page won't be updated, GreenIsLess will update his fork.
+
+[GreenIsLess Github Pages Website](https://greenisless.github.io/ChroMapperPlugins/)
+
+[GreenIsLess Fork](http://github.com/GreenIsLess/ChroMapperPlugins)
+
 
 # Some ChroMapper Plugins!
 Community Made ChroMapper Plugins!

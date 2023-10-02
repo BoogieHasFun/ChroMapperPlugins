@@ -1,3 +1,5 @@
+# This has been mainly shutdown, and probably will never update again. Don't worry, I am not deleting it. I am just archiving it. 
+
 This page won't be updated, GreenIsLess will update his fork.
 
 [GreenIsLess Github Pages Website](https://greenisless.github.io/ChroMapperPlugins/)
